@@ -1,0 +1,9 @@
+This is for read the file from python file
+This for read second lineWrite to thired line
+Write to thired line
+Write to thired line
+Write to thired line
+Write to thired line
+Write to thired line
+Write to thired line
+Write to thired line
